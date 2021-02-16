@@ -68,9 +68,21 @@
   transform: translateY(1px);
 }
 
-.newsletter-subscribe form .btn-primary {
-  background-color: #055ada !important;
+.newsletter-subscribe form .g-recaptcha {
+  background-color: #313437 !important;
   color: #fff;
   outline: none !important;
+  padding: 16px 32px;
+  border: none;
+  background: none;
+  box-shadow: none;
+  text-shadow: none;
+  opacity: 0.9;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 13px;
+  letter-spacing: 0.4px;
+  border-radius: 3px;
+  line-height: 1;
 }
 
