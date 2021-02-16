@@ -4,7 +4,7 @@ This project is a basic flask server being hosted on repl.it to serve static web
 ## Features:
 1. Main page has a form that accepts only valid email ID formats(using regex validation).
 2. Aforementioned form is submittable only if user passes reCaptcha check.
-3. Submitted email IDs are added to a .csv file.
+3. Submitted email IDs are added to a .txt file.
 
 ## Note:
 This was quickly whipped up meet a small need for another Private project, not intended to be a full-fledged project.
